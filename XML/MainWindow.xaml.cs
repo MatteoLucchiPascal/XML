@@ -27,7 +27,7 @@ namespace XML
 
         private void btnTest_Click(object sender, RoutedEventArgs e)
         {
-
+            MessageBox("Ciao");
         }
     }
 }
