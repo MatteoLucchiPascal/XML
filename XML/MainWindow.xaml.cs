@@ -27,8 +27,8 @@ namespace XML
 
         private void btnTest_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox("Ciao");
-             MessageBox("Hello");
+            MessageBox.Show("Ciao");
+             MessageBox.Show("Hello");
         }
     }
 }
