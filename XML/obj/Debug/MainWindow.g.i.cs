@@ -98,6 +98,7 @@ namespace XML
 
         internal System.Windows.Controls.Button btnLocale;
         internal System.Windows.Controls.Button btnBranch;
+        internal System.Windows.Controls.Button btnLab39;
     }
 }
 
