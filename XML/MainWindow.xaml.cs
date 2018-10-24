@@ -38,5 +38,10 @@ namespace XML
             MessageBox.Show("Oaic");
             MessageBox.Show("olleH");
         }
+
+        private void btnBranch_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Matteo");
+        }
     }
 }
