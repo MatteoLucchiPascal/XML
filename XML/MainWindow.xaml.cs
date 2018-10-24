@@ -32,5 +32,10 @@ namespace XML
              MessageBox.Show("Check");
              
         }
+
+        private void btnLocale_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Oaic");
+        }
     }
 }
