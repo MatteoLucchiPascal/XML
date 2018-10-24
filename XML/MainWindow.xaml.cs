@@ -46,7 +46,7 @@ namespace XML
 
         private void btnLab39_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Laboratorio 39");
+            MessageBox.Show("Laboratorio 13");
         }
     }
 }
