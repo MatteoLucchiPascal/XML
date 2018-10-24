@@ -36,6 +36,7 @@ namespace XML
         private void btnLocale_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Oaic");
+            MessageBox.Show("olleH");
         }
     }
 }
